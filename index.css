@@ -1,0 +1,19 @@
+.alapbarna {
+  text-decoration-color: rgb(224, 197, 144);
+  
+}
+
+.alapkek {
+  color: rgb(27, 49, 90);
+}
+
+
+.befele {
+  margin: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+img logo-gif.gif{
+  max-width: 100%;
+}
