@@ -17,3 +17,9 @@
 img logo-gif.gif{
   max-width: 100%;
 }
+
+
+.kozep {
+  align-items: center;
+  width: 50%;
+}
