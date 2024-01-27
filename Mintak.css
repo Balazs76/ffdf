@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+
+.oszlop2es{
+	float: left;
+	width: 33.33%;
+  	padding: 10px;
+}
+.sor2es::after {
+	content: "";
+  	display: table;
+ 	clear: both;
+}
+
+
+
+.oszlop {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+.sor::after {
+	content: "";
+	display: table;
+	clear: both;
+}
