@@ -30,24 +30,10 @@
   background-color: #cccccc;
 }
 
-.div-kék {
-  background-color: cadetblue;
-}
-
-
-
-
-.div-b {
-  background-image: url("hatter1.jpg");
-  background-size: 100%;
-}
-
 .div-b2 {
   background-image: url("hatter2.jpg");
   background-size: 97%;
 }
-
-
 
 .glass3{
   background: linear-gradient(135deg, rgb(231, 161, 68));
@@ -56,4 +42,20 @@
   border-radius: 10px;
   border:20px solid rgba(107, 99, 99, 0);
   color: white;
+}
+
+
+
+
+.google-map {
+  padding-bottom: 50%;
+  position: relative;
+}
+
+.google-map iframe {
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
 }
