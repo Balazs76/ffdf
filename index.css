@@ -7,8 +7,12 @@
   color: rgb(27, 49, 90);
 }
 
-
-
+.sorkizart {
+  text-align: justify;
+  
+  
+  text-justify: inter-word;
+}
 
 
 .glass{
@@ -22,5 +26,34 @@
   box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
 
+.div-szurke {
+  background-color: #cccccc;
+}
+
+.div-kék {
+  background-color: cadetblue;
+}
 
 
+
+
+.div-b {
+  background-image: url("hatter1.jpg");
+  background-size: 100%;
+}
+
+.div-b2 {
+  background-image: url("hatter2.jpg");
+  background-size: 97%;
+}
+
+
+
+.glass3{
+  background: linear-gradient(135deg, rgb(231, 161, 68));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 10px;
+  border:20px solid rgba(107, 99, 99, 0);
+  color: white;
+}
